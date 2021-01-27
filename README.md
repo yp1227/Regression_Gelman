@@ -1,2 +1,3 @@
 # Regression_Gelman
-Regression and Other Stories R files and Datasets
+
+Regression and Other Stories R files and Data sets.
